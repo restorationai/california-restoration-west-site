@@ -16,6 +16,7 @@ faq: [{"question": "How long do I have to file a storm damage insurance claim in
 published_at: "2026-08-13"
 services: ["storm-damage-restoration"]
 rendered: true
+author: "Jimmy Salsbury"
 ---
 Before you dial your insurance company after a storm, stop. The first call matters, and what you say, document, and hand over in those early hours can shape how smoothly (or slowly) your claim moves. This checklist walks you through exactly what to gather, photograph, and preserve before you report the loss. It applies whether you're dealing with a roof torn open by a Ventura County wind event, water intrusion from a backed-up storm drain, or a fallen tree that punched through your fence or siding.
 

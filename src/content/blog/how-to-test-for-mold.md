@@ -16,6 +16,7 @@ faq: [{"question": "Can a DIY mold test kit tell me if the mold is dangerous?", 
 published_at: "2026-08-13"
 services: ["mold-remediation", "mold-inspection-testing"]
 rendered: true
+author: "Jimmy Salsbury"
 ---
 Testing for mold starts with knowing what you're actually measuring, and what the result means. DIY mold test kits can confirm that mold spores exist in your air or on a surface (spoiler: they almost always do), but they rarely tell you *which* mold you have, how much of it is there, or where it's coming from. A professional inspection, by contrast, uses calibrated air sampling, moisture mapping, and visual investigation to answer the questions that actually matter for your health and your home. Here's how to decide which approach fits your situation.
 

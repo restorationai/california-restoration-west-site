@@ -18,6 +18,7 @@ faq: [{"question": "How long does fire damage restoration usually take?", "answe
 published_at: "2026-09-24"
 services: ["fire-damage-restoration", "smoke-damage-restoration"]
 rendered: true
+author: "Jimmy Salsbury"
 ---
 Fire damage restoration is the process of removing soot, smoke residue, and water (from either the fire or the hose lines used to fight it), then repairing or rebuilding whatever the flames and heat destroyed. It typically runs through five stages: a safety assessment, securing the structure, water and debris removal, deep cleaning of soot and smoke odor from every surface, and finally reconstruction of damaged framing, drywall, flooring, or roofing. The timeline and cost depend heavily on how much of the home burned versus how much was affected by smoke and water alone, since smoke can travel through HVAC ducts and settle in rooms far from the fire itself.
 

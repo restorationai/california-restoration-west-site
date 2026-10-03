@@ -17,6 +17,7 @@ faq: [{"question": "How much does water damage restoration cost in California?",
 published_at: "2026-09-15"
 services: []
 rendered: true
+author: "Jimmy Salsbury"
 ---
 **TL;DR:** Water damage restoration in California typically costs $1,500 to $15,000 for residential losses. Most homeowners in Ventura County pay between $3,000 and $7,500 for a mid-sized event like a burst pipe or appliance leak. The final number depends on how much water entered, how long it sat, what materials got wet, and whether mold developed before crews arrived.
 

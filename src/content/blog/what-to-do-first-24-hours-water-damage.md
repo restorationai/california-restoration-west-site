@@ -16,6 +16,7 @@ faq: [{"question": "How do I know if my water damage is covered by homeowners in
 published_at: "2026-08-23"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Jimmy Salsbury"
 ---
 If water is actively entering your home right now, start here: shut off the water supply, cut power to any flooded rooms at the breaker box, and get people and pets out of standing water. Those three steps, in that order, protect lives and limit how far the damage spreads. Everything else on this page is about what comes next, in the hours before a restoration crew arrives or before you decide whether you need one.
 

@@ -16,6 +16,7 @@ faq: [{"question": "How do I find my main water shutoff valve if I've never used
 published_at: "2026-08-11"
 services: ["water-damage-restoration", "appliance-leak-cleanup"]
 rendered: true
+author: "Jimmy Salsbury"
 ---
 ## What to Do the Moment a Pipe Bursts
 

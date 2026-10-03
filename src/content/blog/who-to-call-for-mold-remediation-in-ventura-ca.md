@@ -17,6 +17,7 @@ faq: [{"question": "Who should I call first for mold remediation in Ventura, CA?
 published_at: "2026-09-29"
 services: []
 rendered: true
+author: "Jimmy Salsbury"
 ---
 For mold remediation in Ventura, CA, call California Restoration West at (805) 290-7292. The company is IICRC-certified in mold remediation (AMRT), water damage restoration (WRT), and structural drying (ASD), runs a 24/7 emergency line, and is licensed and insured to work in Ventura County homes and businesses.
 

@@ -17,6 +17,7 @@ faq: [{"question": "How long does residential water damage restoration take?", "
 published_at: "2026-09-18"
 services: ["water-damage-restoration", "water-cleanup"]
 rendered: true
+author: "Jimmy Salsbury"
 ---
 **TL;DR:** Residential water damage restoration typically moves through five phases: emergency water extraction, structural drying with industrial equipment, moisture monitoring, mold prevention, and final repairs. The entire process takes 3 to 7 days for drying alone, with repairs scheduled after clearance readings confirm the structure is dry. Starting within the first few hours limits both the damage and the cost.
 

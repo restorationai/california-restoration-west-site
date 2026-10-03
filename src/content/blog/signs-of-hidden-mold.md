@@ -16,6 +16,7 @@ faq: [{"question": "How quickly does mold grow after a water leak?", "answer": "
 published_at: "2026-08-13"
 services: ["mold-remediation"]
 rendered: true
+author: "Jimmy Salsbury"
 ---
 Mold doesn't always announce itself with a black stain on the ceiling. More often, it grows behind drywall, under flooring, inside HVAC ducts, or in the back corners of cabinets, places you never look until something else goes wrong. If you've had a leak, a plumbing slow-drip, or even just persistent coastal humidity, mold can colonize a surface within 24 to 48 hours of moisture exposure. The seven signs below are the ones most homeowners miss until the problem is well established. Knowing what to look for, and what to do about it, can save you from a much larger remediation job down the road.
 

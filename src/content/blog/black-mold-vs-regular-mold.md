@@ -16,6 +16,7 @@ faq: [{"question": "Can a home test kit tell me if I have black mold?", "answer"
 published_at: "2026-08-13"
 services: ["mold-remediation"]
 rendered: true
+author: "Jimmy Salsbury"
 ---
 Most mold you find in a home is not the dangerous black mold you've read about, but some of it is, and the color alone won't tell you which is which. The short answer: you cannot reliably identify *Stachybotrys chartarum* (the mold commonly called "black mold") by looking at it. Color, texture, and smell give you clues, but a lab test is the only way to confirm species. What you *can* do is assess the growth, understand what conditions produced it, and decide whether this is a DIY wipe-down or a situation that needs professional remediation.
 

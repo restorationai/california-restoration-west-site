@@ -17,6 +17,7 @@ faq: [{"question": "How long does commercial water damage restoration take?", "a
 published_at: "2026-09-03"
 services: ["water-damage-restoration", "contents-restoration"]
 rendered: true
+author: "Jimmy Salsbury"
 ---
 **TL;DR:** Commercial water damage restoration follows the same IICRC S500 drying science as residential work, but the stakes are different: a closed office, restaurant, or warehouse means lost revenue, displaced tenants, and potential lease liability. The fastest way to limit downtime is calling a certified restoration crew before you call your contractor, extraction and structural drying must start within 24-48 hours to prevent secondary mold growth and keep your insurance claim clean.
 

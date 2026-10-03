@@ -16,6 +16,7 @@ faq: [{"question": "Can I use any restoration company, or does my insurance requ
 published_at: "2026-08-18"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
 rendered: true
+author: "Jimmy Salsbury"
 ---
 ## The Short Answer: Vet Before You're Desperate
 

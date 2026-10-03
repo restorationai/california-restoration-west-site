@@ -17,6 +17,7 @@ faq: [{"question": "What is contents restoration and how is it different from re
 published_at: "2026-09-24"
 services: []
 rendered: true
+author: "Jimmy Salsbury"
 ---
 **TL;DR:** Contents restoration is the process of cleaning, deodorizing, and storing your personal belongings after a water, fire, mold, or storm loss. Most items, including furniture, documents, electronics, and clothing, can be restored rather than replaced if a crew responds quickly. A certified restoration company inventories every item, packs it out to a climate-controlled facility, restores it, and returns it once your home is ready. Your homeowners insurance typically covers this as part of your personal property claim.
 

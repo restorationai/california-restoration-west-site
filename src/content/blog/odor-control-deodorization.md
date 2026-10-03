@@ -17,6 +17,7 @@ faq: [{"question": "How much does professional odor removal cost?", "answer": "M
 published_at: "2026-10-02"
 services: []
 rendered: true
+author: "Jimmy Salsbury"
 ---
 **TL;DR:** Odor control and deodorization uses hydroxyl generators, thermal fogging, HEPA air scrubbers, and enzymatic cleaners to break down odor molecules at the source rather than cover them with fragrance. Professional treatment typically takes one to three days depending on how deep the odor has soaked into drywall, subfloor, and insulation, and it almost always has to be paired with fixing whatever moisture or contamination problem is causing the smell in the first place.
 

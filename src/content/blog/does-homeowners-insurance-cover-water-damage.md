@@ -16,6 +16,7 @@ faq: [{"question": "If I file a water damage claim, will my homeowners insurance
 published_at: "2026-08-09"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Jimmy Salsbury"
 ---
 ## The Short Answer: It Depends on the Source
 
