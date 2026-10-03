@@ -58,7 +58,7 @@ export const brand = {
   // Operator-confirmed "licensed & insured" attestation from plan-input.json —
   // lets the TrustStrip show the badge before a license number is on file.
   licensedInsuredAttested: true as boolean,
-  certifications: ["IICRC WRT (WATER)", "IICRC AMRT (MOLD)", "IICRC ASD (STRUCTURAL DRYING)", "IICRC CERTIFIED FIRM", "OSHA TRAINED"] as string[],
+  certifications: ["IICRC WRT (Water)", "IICRC AMRT (Mold)", "IICRC ASD (Structural Drying)", "IICRC Certified Firm", "OSHA Trained"] as string[],
   trustBadges: ["IICRC Certified Firm", "Licensed & Insured", "24/7 Emergency Service", "Locally Owned & Operated"] as string[],
   jobPhotos: [] as string[],
   sameAsUrls: ["https://www.facebook.com/people/CAlifornia-REstoration-West/61583226071533/", "https://maps.google.com/maps?cid=16144063698256220950", "https://www.yelp.com/biz/california-restoration-west-ventura", "https://www.facebook.com/p/CAlifornia-REstoration-West-61583226071533/", "https://homeguide.com/ca/ventura/water-damage-restoration/california-restoration-west-bWIQJ-q7t"] as string[],
