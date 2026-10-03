@@ -1,10 +1,10 @@
 ---
 archetype: "home"
-title: "California Restoration West  | Restoration Services in Ventura, CA"
-h1: "24/7 Restoration Services in Ventura"
-meta_description: "California Restoration West  provides 24/7 water, fire, mold, and storm damage restoration across Ventura and surrounding areas. Licensed, insured, IICRC-certified. Call (805) 290-7292."
-primary_keyword: "restoration services ventura"
-secondary_keywords: ["restoration company near me", "24/7 damage restoration", "emergency restoration"]
+title: "Water Damage Restoration in Ventura, CA | California Restoration West"
+h1: "24/7 Water Damage Restoration in Ventura, CA"
+meta_description: "California Restoration West provides water damage restoration in Ventura, CA, answering 24/7. IICRC certified. Call (805) 290-7292 now."
+primary_keyword: "water damage restoration ventura"
+secondary_keywords: ["best restoration company in ventura", "restoration company ventura", "water damage restoration near me"]
 search_intent: "local_commercial"
 priority: 5.0
 plan_hash: "f0a26fea7049deb1"
