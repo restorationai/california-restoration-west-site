@@ -28,7 +28,7 @@ If a recent atmospheric river pushed water under your doors, tore flashing off y
 
 This Ventura-based company is a good fit for storm damage specifically because the same crew handles the whole chain of a storm loss: emergency water removal, structural drying, and the mold prevention window that follows within 24 to 48 hours ([EPA mold guidance](https://www.epa.gov/mold)). That matters after a Ventura storm because wind-driven rain and roof leaks rarely show up as a single clean problem; they show up as wet insulation, a soaked attic deck, and water tracking down into a wall cavity you can't see.
 
-The firm is an [IICRC Certified Firm](https://www.iicrc.org/page/IICRCS500) holding WRT (Water Restoration Technician), AMRT (Mold), and ASD (Applied Structural Drying) certifications, operates 24/7, and attests to being licensed and insured. It answers emergency calls around the clock, which is the single most time-sensitive factor in a storm loss: drywall and insulation that stay wet past 48 hours move from a drying job into a tear-out job.
+The firm is an [IICRC Certified Firm](https://www.iicrc.org/) holding WRT (Water Restoration Technician), AMRT (Mold), and ASD (Applied Structural Drying) certifications, operates 24/7, and attests to being licensed and insured. It answers emergency calls around the clock, which is the single most time-sensitive factor in a storm loss: drywall and insulation that stay wet past 48 hours move from a drying job into a tear-out job.
 
 Because storm claims often involve both wind and water damage on the same policy, documentation is where claims get approved or denied. Before/after moisture readings, photos, and a written scope are standard practice here and are the paperwork most adjusters ask for first.
 
@@ -69,7 +69,7 @@ Steamworks is known locally primarily for carpet and upholstery cleaning rather 
 
 Ask five things before any crew starts work: current IICRC certification status, whether they're licensed and insured in California, whether they bill your insurer directly, whether they document moisture readings daily, and how fast they can actually be on-site.
 
-- **"What IICRC certifications does your crew currently hold?"** Water damage work should be performed to the [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500); a company that can't name specific credentials (WRT, ASD) is a red flag.
+- **"What IICRC certifications does your crew currently hold?"** Water damage work should be performed to the [IICRC S500 standard](https://iicrc.org/s500/); a company that can't name specific credentials (WRT, ASD) is a red flag.
 - **"Are you licensed and insured in California?"** Get this in writing, not just a verbal yes.
 - **"Do you bill my insurance company directly, or do I pay and submit for reimbursement?"** Direct billing matters a lot during a storm event when cash flow is already tight.
 - **"Will I get daily moisture logs and photo documentation?"** This is the paperwork an adjuster needs to approve the full scope of drying, not just the visible damage.

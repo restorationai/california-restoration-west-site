@@ -37,7 +37,7 @@ Porous materials are the highest priority. Drywall (specifically the paper facin
 
 Water damage does not always cause mold, but it always creates the conditions for it. Whether mold actually grows depends on how quickly the materials are dried. If structural materials are brought back to normal moisture content, typically below 16 percent for wood and below 1 percent for concrete, before the 48-hour window closes, mold colonization is unlikely. If materials stay wet beyond 48 to 72 hours, the probability of mold growth rises sharply.
 
-The [CDC](https://www.cdc.gov/mold/) confirms that controlling moisture is the key to controlling mold. Professional water damage restoration uses calibrated equipment to make that happen: LGR (low-grain refrigerant) dehumidifiers pull moisture from the air, high-velocity air movers accelerate evaporation from surfaces, and thermal hygrometers track moisture levels in real time. This is not something a box fan and open windows can replicate, especially in a coastal climate where the outside air is already saturated.
+The [CDC](https://www.cdc.gov/mold-health/about/index.html) confirms that controlling moisture is the key to controlling mold. Professional water damage restoration uses calibrated equipment to make that happen: LGR (low-grain refrigerant) dehumidifiers pull moisture from the air, high-velocity air movers accelerate evaporation from surfaces, and thermal hygrometers track moisture levels in real time. This is not something a box fan and open windows can replicate, especially in a coastal climate where the outside air is already saturated.
 
 Two situations almost always lead to mold even when the initial water event was minor:
 

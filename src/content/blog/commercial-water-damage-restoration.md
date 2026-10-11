@@ -38,7 +38,7 @@ In Oxnard's industrial corridor near the Port of Hueneme, warehouse and cold-sto
 
 ## How does commercial water damage restoration actually work?
 
-The process follows the [IICRC S500 Standard for Professional Water Damage Restoration](https://www.iicrc.org/page/IICRCS500), the industry benchmark for both residential and commercial losses. The phases are the same; the equipment and coordination are scaled up.
+The process follows the [IICRC S500 Standard for Professional Water Damage Restoration](https://iicrc.org/s500/), the industry benchmark for both residential and commercial losses. The phases are the same; the equipment and coordination are scaled up.
 
 **1. Emergency extraction (hours 1-6)**
 The crew arrives, assesses the water category (clean water from a supply line is Category 1; gray water from an appliance or HVAC drain is Category 2; sewage or floodwater is Category 3, also called black water), and begins extraction immediately. Commercial jobs often require truck-mounted extractors pulling 200+ gallons per hour, not portable units.
@@ -55,7 +55,7 @@ Wet drywall, saturated insulation, and soaked flooring that cannot be dried in p
 **5. Clearance and documentation**
 Before reconstruction begins, the restoration company provides a drying log, moisture readings at clearance, and a written scope of work. This package is what your insurance adjuster needs to close the mitigation claim and authorize reconstruction.
 
-[OSHA's flood cleanup guidance](https://www.osha.gov/flood/cleanup) also applies to commercial restoration sites, workers re-entering a water-damaged commercial space may be exposed to electrical hazards, contaminated water, or compromised structural elements. A certified restoration crew handles the hazard assessment before your employees re-enter.
+[OSHA's flood cleanup guidance](https://www.osha.gov/flood) also applies to commercial restoration sites, workers re-entering a water-damaged commercial space may be exposed to electrical hazards, contaminated water, or compromised structural elements. A certified restoration crew handles the hazard assessment before your employees re-enter.
 
 ## How do you limit business interruption during restoration?
 

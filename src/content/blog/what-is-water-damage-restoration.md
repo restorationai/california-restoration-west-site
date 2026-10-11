@@ -33,7 +33,7 @@ Here's what each phase looks like in practice:
 
 1. **Emergency response.** A certified crew arrives, assesses the source of water, and stops the intrusion if it's still active (or coordinates with a plumber if the pipe is still flowing). They document everything for your insurance claim.
 2. **Water extraction.** Truck-mounted or portable extractors pull standing water from floors, carpets, and subfloors. This step is measured in gallons, not minutes.
-3. **Structural drying.** This is the phase most homeowners underestimate. Industrial LGR (low-grain refrigerant) dehumidifiers and high-velocity air movers run continuously, often for 3 to 5 days, to drive moisture out of drywall, framing, and flooring. Technicians take daily moisture readings with a calibrated moisture meter to verify drying progress against the [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500), the industry's governing document for water damage response.
+3. **Structural drying.** This is the phase most homeowners underestimate. Industrial LGR (low-grain refrigerant) dehumidifiers and high-velocity air movers run continuously, often for 3 to 5 days, to drive moisture out of drywall, framing, and flooring. Technicians take daily moisture readings with a calibrated moisture meter to verify drying progress against the [IICRC S500 standard](https://iicrc.org/s500/), the industry's governing document for water damage response.
 4. **Restoration and repairs.** Once materials are dry, the rebuild begins: replacing drywall, reinstalling flooring, repainting, and restoring any contents that were affected. This phase is what turns a gutted, dried shell back into a livable home.
 
 ## What is the difference between water mitigation and water restoration?
@@ -57,7 +57,7 @@ Here's what you'll typically see on a job:
 - **HEPA air scrubbers:** Used when demolition creates airborne particles, or when mold is suspected alongside the water damage.
 - **Desiccant dehumidifiers:** For extreme losses or cold environments where LGR units are less effective.
 
-The equipment staging is not arbitrary. The [IICRC S500](https://www.iicrc.org/page/IICRCS500) defines drying goals by material type and ambient conditions. A certified technician calculates the drying system based on the cubic footage of the affected space, the class of water damage, and the materials involved.
+The equipment staging is not arbitrary. The [IICRC S500](https://iicrc.org/s500/) defines drying goals by material type and ambient conditions. A certified technician calculates the drying system based on the cubic footage of the affected space, the class of water damage, and the materials involved.
 
 ## How does the water category affect the restoration process?
 

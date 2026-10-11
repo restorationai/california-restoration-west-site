@@ -21,7 +21,7 @@ author: "Jimmy Salsbury"
 ---
 **TL;DR:** Residential water damage restoration typically moves through five phases: emergency water extraction, structural drying with industrial equipment, moisture monitoring, mold prevention, and final repairs. The entire process takes 3 to 7 days for drying alone, with repairs scheduled after clearance readings confirm the structure is dry. Starting within the first few hours limits both the damage and the cost.
 
-If you are reading this with wet floors, soaked drywall, or a ceiling that just let go, the process ahead is more predictable than it probably feels right now. Restoration crews follow a documented protocol built around the [IICRC S500 Standard for Professional Water Damage Restoration](https://www.iicrc.org/page/IICRCS500), the industry's governing technical standard. Knowing what each phase involves helps you ask the right questions, protect your insurance claim, and make confident decisions while the work is happening.
+If you are reading this with wet floors, soaked drywall, or a ceiling that just let go, the process ahead is more predictable than it probably feels right now. Restoration crews follow a documented protocol built around the [IICRC S500 Standard for Professional Water Damage Restoration](https://iicrc.org/s500/), the industry's governing technical standard. Knowing what each phase involves helps you ask the right questions, protect your insurance claim, and make confident decisions while the work is happening.
 
 ## What does residential water damage restoration actually involve?
 

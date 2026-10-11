@@ -41,7 +41,7 @@ The table below shows typical ranges by scenario. These are industry-typical fig
 | Hardwood floor drying (per room) | $1,500 - $4,000 |
 | Structural drying only (no demo) | $800 - $2,500 |
 
-Ventura County's coastal climate adds a variable most inland cost guides ignore. Relative humidity along the coast and in the Santa Clara River valley stays elevated, especially from June through September. The [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500) for water damage restoration requires drying to specific moisture content targets, not just until things feel dry. Higher ambient humidity means equipment runs longer to hit those targets, which adds equipment rental days and technician check-in visits to the final bill.
+Ventura County's coastal climate adds a variable most inland cost guides ignore. Relative humidity along the coast and in the Santa Clara River valley stays elevated, especially from June through September. The [IICRC S500 standard](https://iicrc.org/s500/) for water damage restoration requires drying to specific moisture content targets, not just until things feel dry. Higher ambient humidity means equipment runs longer to hit those targets, which adds equipment rental days and technician check-in visits to the final bill.
 
 ## What Is the Cost Per Square Foot for Water Damage Restoration?
 
