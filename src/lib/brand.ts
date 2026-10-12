@@ -65,8 +65,9 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
-  gbpReviewCount: "8",
+  gbpReviewCount: "9",
   gbpReviews: [
+    { author: "Karen", rating: 5, text: "Jim was professional, courteous and respectful of my spaces.", when: "October 2026" },
     { author: "Atila", rating: 5, text: "Jimmy provided excellent water restoration service. He was professional, responsive, and did a great job from start to finish. I really appreciate his attention to detail and customer service. Highly recommended!", when: "September 2026" },
     { author: "Jeffrey", rating: 5, text: "Jimmy is Very Professional and knowledgeable. One of the best in the industry.", when: "November 2025" },
     { author: "Garret", rating: 5, text: "Jim did an amazing job taking care of my clients water damage problem. They were happy with results and the knowledge he provided. I only recommend him as he’s experienced, professional, and shows up prompt.", when: "November 2025" },
