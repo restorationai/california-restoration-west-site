@@ -61,7 +61,7 @@ export const brand = {
   certifications: ["IICRC WRT (Water)", "IICRC AMRT (Mold)", "IICRC ASD (Structural Drying)", "IICRC Certified Firm", "OSHA Trained"] as string[],
   trustBadges: ["IICRC Certified Firm", "Licensed & Insured", "24/7 Emergency Service", "Locally Owned & Operated"] as string[],
   jobPhotos: [] as string[],
-  sameAsUrls: ["https://www.facebook.com/people/CAlifornia-REstoration-West/61583226071533/", "https://maps.google.com/maps?cid=16144063698256220950", "https://www.yelp.com/biz/california-restoration-west-ventura", "https://www.facebook.com/p/CAlifornia-REstoration-West-61583226071533/", "https://homeguide.com/ca/ventura/water-damage-restoration/california-restoration-west-bWIQJ-q7t"] as string[],
+  sameAsUrls: ["https://www.facebook.com/people/CAlifornia-REstoration-West/61583226071533/", "https://www.facebook.com/p/CAlifornia-REstoration-West-61583226071533/", "https://maps.google.com/maps?cid=16144063698256220950", "https://www.yelp.com/biz/california-restoration-west-ventura", "https://www.houzz.com/pro/webuser-84932668/california-restoration-west", "https://homeguide.com/ca/ventura/water-damage-restoration/california-restoration-west-bWIQJ-q7t"] as string[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
