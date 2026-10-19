@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Contents Restoration and Storage in Castaic, CA | California Restoration West "
+title: "Contents Restoration and Storage in Castaic, CA | California Restoration West"
 h1: "Contents Restoration and Storage in Castaic"
 meta_description: "24/7 contents restoration and storage in Castaic, CA. IICRC-certified, insurance billing accepted. Call (805) 290-7292."
 primary_keyword: "contents restoration and storage castaic"

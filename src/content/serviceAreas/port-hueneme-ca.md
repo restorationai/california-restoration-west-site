@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Port Hueneme, CA | California Restoration West "
+title: "Restoration Services in Port Hueneme, CA | California Restoration West"
 h1: "Restoration Services in Port Hueneme"
 meta_description: "Serving Port Hueneme, CA with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (805) 290-7292."
 primary_keyword: "restoration services port hueneme"

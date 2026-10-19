@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Carpinteria, CA | California Restoration West "
+title: "Restoration Services in Carpinteria, CA | California Restoration West"
 h1: "Restoration Services in Carpinteria"
 meta_description: "Serving Carpinteria, CA with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (805) 290-7292."
 primary_keyword: "restoration services carpinteria"

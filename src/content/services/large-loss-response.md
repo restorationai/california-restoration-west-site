@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Large Loss and Catastrophic Response in Ventura | California Restoration West "
+title: "Large Loss and Catastrophic Response in Ventura | California Restoration West"
 h1: "Large Loss and Catastrophic Response in Ventura"
 meta_description: "24/7 large loss and catastrophic response in Ventura and surrounding areas. IICRC-certified, insurance billing accepted. Call (805) 290-7292."
 primary_keyword: "large loss and catastrophic response ventura"

@@ -1,6 +1,6 @@
 ---
 archetype: "services-hub"
-title: "Restoration Services in Ventura | California Restoration West "
+title: "Restoration Services in Ventura | California Restoration West"
 h1: "Our Restoration Services"
 meta_description: "Full-service restoration in Ventura: water, fire, mold, storm, biohazard, and commercial restoration. 24/7 response. Call (805) 290-7292."
 primary_keyword: "restoration services ventura"

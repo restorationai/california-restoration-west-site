@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in Fillmore, CA | California Restoration West "
+title: "Odor Removal and Deodorization in Fillmore, CA | California Restoration West"
 h1: "Odor Removal and Deodorization in Fillmore"
 meta_description: "24/7 odor removal and deodorization in Fillmore, CA. IICRC-certified, insurance billing accepted. Call (805) 290-7292."
 primary_keyword: "odor removal and deodorization fillmore"

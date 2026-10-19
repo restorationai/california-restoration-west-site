@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Water Leak Detection in Ventura | California Restoration West "
+title: "Water Leak Detection in Ventura | California Restoration West"
 h1: "Water Leak Detection in Ventura"
 meta_description: "24/7 water leak detection in Ventura and surrounding areas. IICRC-certified, insurance billing accepted. Call (805) 290-7292."
 primary_keyword: "water leak detection ventura"

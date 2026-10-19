@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Contents Restoration and Storage in Fillmore, CA | California Restoration West "
+title: "Contents Restoration and Storage in Fillmore, CA | California Restoration West"
 h1: "Contents Restoration and Storage in Fillmore"
 meta_description: "24/7 contents restoration and storage in Fillmore, CA. IICRC-certified, insurance billing accepted. Call (805) 290-7292."
 primary_keyword: "contents restoration and storage fillmore"

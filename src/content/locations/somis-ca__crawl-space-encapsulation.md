@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Somis, CA | California Restoration West "
+title: "Crawl Space Encapsulation in Somis, CA | California Restoration West"
 h1: "Crawl Space Encapsulation in Somis"
 meta_description: "24/7 crawl space encapsulation in Somis, CA. IICRC-certified, insurance billing accepted. Call (805) 290-7292."
 primary_keyword: "crawl space encapsulation somis"

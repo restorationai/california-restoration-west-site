@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Fillmore, CA | California Restoration West "
+title: "Mold Remediation in Fillmore, CA | California Restoration West"
 h1: "Mold Remediation in Fillmore"
 meta_description: "24/7 mold remediation in Fillmore, CA. IICRC-certified, insurance billing accepted. Call (805) 290-7292."
 primary_keyword: "mold remediation fillmore"

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Removal & Cleanup in Thousand Oaks, CA | California Restoration West "
+title: "24/7 Emergency Water Removal & Cleanup in Thousand Oaks, CA | California Restoration West"
 h1: "24/7 Emergency Water Removal & Cleanup in Thousand Oaks"
 meta_description: "24/7 emergency water removal and cleanup in Thousand Oaks, CA. IICRC-certified, insurance billing accepted. Call (805) 290-7292."
 primary_keyword: "emergency water removal thousand oaks"

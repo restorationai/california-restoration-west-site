@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "24/7 Emergency Burst Pipe Cleanup and Repair in Ventura | California Restoration West "
+title: "24/7 Emergency Burst Pipe Cleanup and Repair in Ventura | California Restoration West"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Ventura"
 meta_description: "24/7 emergency burst pipe cleanup and repair in Ventura and surrounding areas. IICRC-certified, insurance billing accepted. Call (805) 290-7292."
 primary_keyword: "burst pipe cleanup and repair ventura"

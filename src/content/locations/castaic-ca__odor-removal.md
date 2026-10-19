@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in Castaic, CA | California Restoration West "
+title: "Odor Removal and Deodorization in Castaic, CA | California Restoration West"
 h1: "Odor Removal and Deodorization in Castaic"
 meta_description: "24/7 odor removal and deodorization in Castaic, CA. IICRC-certified, insurance billing accepted. Call (805) 290-7292."
 primary_keyword: "odor removal and deodorization castaic"

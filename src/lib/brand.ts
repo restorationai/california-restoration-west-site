@@ -4,15 +4,15 @@
 
 export const brand = {
   slug: "california-restoration-west",
-  displayName: "California Restoration West ",
-  shortName: "California Restoration West ",
-  legalName: "California Restoration West ",
+  displayName: "California Restoration West",
+  shortName: "California Restoration West",
+  legalName: "California Restoration West LLC",
   // Registered DBA / trade name — filled by rename_site_sync.py the moment
   // the state approves the client's DBA filing (empty until then). When set,
   // the footer carries the "[legal] doing business as [DBA]" line and schema
   // declares it as the business name, so Google/BrightLocal find the new
   // name corroborated on the site before and during the GBP rename.
-  dbaName: "",
+  dbaName: "California Restoration West - 24/7 Emergency Water Damage and Mold Remediation",
   domain: "californiarestorationwest.com",
   canonicalUrl: "https://californiarestorationwest.com",
   phone: "(805) 290-7292",

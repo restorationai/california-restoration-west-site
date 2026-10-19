@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Contents Restoration and Storage in Santa Paula, CA | California Restoration West "
+title: "Contents Restoration and Storage in Santa Paula, CA | California Restoration West"
 h1: "Contents Restoration and Storage in Santa Paula"
 meta_description: "24/7 contents restoration and storage in Santa Paula, CA. IICRC-certified, insurance billing accepted. Call (805) 290-7292."
 primary_keyword: "contents restoration and storage santa paula"

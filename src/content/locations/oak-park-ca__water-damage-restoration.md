@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Oak Park, CA | California Restoration West "
+title: "24/7 Emergency Water Damage Restoration in Oak Park, CA | California Restoration West"
 h1: "24/7 Emergency Water Damage Restoration in Oak Park"
 meta_description: "24/7 emergency water damage restoration in Oak Park, CA. IICRC-certified, insurance billing accepted. Call (805) 290-7292."
 primary_keyword: "water damage restoration oak park"

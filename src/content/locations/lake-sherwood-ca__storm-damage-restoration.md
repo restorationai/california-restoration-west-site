@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in Lake Sherwood, CA | California Restoration West "
+title: "24/7 Emergency Storm Damage Restoration in Lake Sherwood, CA | California Restoration West"
 h1: "24/7 Emergency Storm Damage Restoration in Lake Sherwood"
 meta_description: "24/7 emergency storm damage restoration in Lake Sherwood, CA. IICRC-certified, insurance billing accepted. Call (805) 290-7292."
 primary_keyword: "storm damage restoration lake sherwood"

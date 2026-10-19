@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Contents Restoration and Storage in Ventura | California Restoration West "
+title: "Contents Restoration and Storage in Ventura | California Restoration West"
 h1: "Contents Restoration and Storage in Ventura"
 meta_description: "24/7 contents restoration and storage in Ventura and surrounding areas. IICRC-certified, insurance billing accepted. Call (805) 290-7292."
 primary_keyword: "contents restoration and storage ventura"

@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Crawl Space Encapsulation in Ventura | California Restoration West "
+title: "Crawl Space Encapsulation in Ventura | California Restoration West"
 h1: "Crawl Space Encapsulation in Ventura"
 meta_description: "24/7 crawl space encapsulation in Ventura and surrounding areas. IICRC-certified, insurance billing accepted. Call (805) 290-7292."
 primary_keyword: "crawl space encapsulation ventura"

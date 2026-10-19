@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in San Buenaventura (Ventura), CA | California Restoration West "
+title: "Restoration Services in San Buenaventura (Ventura), CA | California Restoration West"
 h1: "Restoration Services in San Buenaventura (Ventura)"
 meta_description: "Serving San Buenaventura (Ventura), CA with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (805) 290-7292."
 primary_keyword: "restoration services san buenaventura (ventura)"

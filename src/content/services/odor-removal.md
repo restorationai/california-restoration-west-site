@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Odor Removal and Deodorization in Ventura | California Restoration West "
+title: "Odor Removal and Deodorization in Ventura | California Restoration West"
 h1: "Odor Removal and Deodorization in Ventura"
 meta_description: "24/7 odor removal and deodorization in Ventura and surrounding areas. IICRC-certified, insurance billing accepted. Call (805) 290-7292."
 primary_keyword: "odor removal and deodorization ventura"

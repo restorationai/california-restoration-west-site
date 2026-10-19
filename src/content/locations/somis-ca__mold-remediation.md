@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Somis, CA | California Restoration West "
+title: "Mold Remediation in Somis, CA | California Restoration West"
 h1: "Mold Remediation in Somis"
 meta_description: "24/7 mold remediation in Somis, CA. IICRC-certified, insurance billing accepted. Call (805) 290-7292."
 primary_keyword: "mold remediation somis"

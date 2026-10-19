@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Renovations, Remodels and General Contracting in Ventura | California Restoration West "
+title: "Renovations, Remodels and General Contracting in Ventura | California Restoration West"
 h1: "Renovations, Remodels and General Contracting in Ventura"
 meta_description: "24/7 renovations, remodels and general contracting in Ventura and surrounding areas. IICRC-certified, insurance billing accepted. Call (805) 290-7292."
 primary_keyword: "renovations, remodels and general contracting ventura"

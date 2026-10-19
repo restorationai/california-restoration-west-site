@@ -1,7 +1,7 @@
 ---
 archetype: "contact"
 title: "Contact California Restoration West  | 24/7 Restoration in Ventura"
-h1: "Contact California Restoration West "
+h1: "Contact California Restoration West"
 meta_description: "Call (805) 290-7292 for 24/7 emergency restoration in Ventura and surrounding areas. Free estimates. Direct insurance billing."
 primary_keyword: "california restoration west  contact"
 secondary_keywords: ["restoration company contact", "24/7 restoration phone", "emergency restoration near me"]

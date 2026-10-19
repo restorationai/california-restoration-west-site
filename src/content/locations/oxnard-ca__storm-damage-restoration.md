@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in Oxnard, CA | California Restoration West "
+title: "24/7 Emergency Storm Damage Restoration in Oxnard, CA | California Restoration West"
 h1: "24/7 Emergency Storm Damage Restoration in Oxnard"
 meta_description: "24/7 emergency storm damage restoration in Oxnard, CA. IICRC-certified, insurance billing accepted. Call (805) 290-7292."
 primary_keyword: "storm damage restoration oxnard"

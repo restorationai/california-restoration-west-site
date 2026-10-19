@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Oak View, CA | California Restoration West "
+title: "Crawl Space Encapsulation in Oak View, CA | California Restoration West"
 h1: "Crawl Space Encapsulation in Oak View"
 meta_description: "24/7 crawl space encapsulation in Oak View, CA. IICRC-certified, insurance billing accepted. Call (805) 290-7292."
 primary_keyword: "crawl space encapsulation oak view"

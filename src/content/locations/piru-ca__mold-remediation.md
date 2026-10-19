@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Piru, CA | California Restoration West "
+title: "Mold Remediation in Piru, CA | California Restoration West"
 h1: "Mold Remediation in Piru"
 meta_description: "24/7 mold remediation in Piru, CA. IICRC-certified, insurance billing accepted. Call (805) 290-7292."
 primary_keyword: "mold remediation piru"

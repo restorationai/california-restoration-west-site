@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Saticoy, CA | California Restoration West "
+title: "24/7 Emergency Water Damage Restoration in Saticoy, CA | California Restoration West"
 h1: "24/7 Emergency Water Damage Restoration in Saticoy"
 meta_description: "24/7 emergency water damage restoration in Saticoy, CA. IICRC-certified, insurance billing accepted. Call (805) 290-7292."
 primary_keyword: "water damage restoration saticoy"

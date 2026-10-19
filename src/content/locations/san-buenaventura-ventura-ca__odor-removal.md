@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in San Buenaventura (Ventura), CA | California Restoration West "
+title: "Odor Removal and Deodorization in San Buenaventura (Ventura), CA | California Restoration West"
 h1: "Odor Removal and Deodorization in San Buenaventura (Ventura)"
 meta_description: "24/7 odor removal and deodorization in San Buenaventura (Ventura), CA. IICRC-certified, insurance billing accepted. Call (805) 290-7292."
 primary_keyword: "odor removal and deodorization san buenaventura (ventura)"

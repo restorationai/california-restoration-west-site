@@ -1,6 +1,6 @@
 ---
 archetype: "blog-index"
-title: "Restoration Blog | California Restoration West "
+title: "Restoration Blog | California Restoration West"
 h1: "Restoration Resources and Insights"
 meta_description: "Guides, checklists, and explainers from California Restoration West  on water, fire, mold, and storm damage restoration."
 primary_keyword: "restoration blog ventura"

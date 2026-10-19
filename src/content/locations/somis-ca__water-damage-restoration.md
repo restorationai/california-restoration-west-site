@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Somis, CA | California Restoration West "
+title: "24/7 Emergency Water Damage Restoration in Somis, CA | California Restoration West"
 h1: "24/7 Emergency Water Damage Restoration in Somis"
 meta_description: "24/7 emergency water damage restoration in Somis, CA. IICRC-certified, insurance billing accepted. Call (805) 290-7292."
 primary_keyword: "water damage restoration somis"

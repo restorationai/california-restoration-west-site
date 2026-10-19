@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Hasley Canyon, CA | California Restoration West "
+title: "24/7 Emergency Water Damage Restoration in Hasley Canyon, CA | California Restoration West"
 h1: "24/7 Emergency Water Damage Restoration in Hasley Canyon"
 meta_description: "24/7 emergency water damage restoration in Hasley Canyon, CA. IICRC-certified, insurance billing accepted. Call (805) 290-7292."
 primary_keyword: "water damage restoration hasley canyon"

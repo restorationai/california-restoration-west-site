@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Mold Inspection and Testing in Ventura | California Restoration West "
+title: "Mold Inspection and Testing in Ventura | California Restoration West"
 h1: "Mold Inspection and Testing in Ventura"
 meta_description: "24/7 mold inspection and testing in Ventura and surrounding areas. IICRC-certified, insurance billing accepted. Call (805) 290-7292."
 primary_keyword: "mold inspection and testing ventura"

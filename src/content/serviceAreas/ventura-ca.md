@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Serving All of Ventura, CA | California Restoration West "
+title: "Serving All of Ventura, CA | California Restoration West"
 h1: "Serving All of Ventura"
 meta_description: "California Restoration West  is based in Ventura, CA. See the parts of Ventura we cover and every service we offer here. Call (805) 290-7292."
 primary_keyword: "ventura service area"

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Thousand Oaks, CA | California Restoration West "
+title: "24/7 Emergency Water Damage Restoration in Thousand Oaks, CA | California Restoration West"
 h1: "24/7 Emergency Water Damage Restoration in Thousand Oaks"
 meta_description: "24/7 emergency water damage restoration in Thousand Oaks, CA. IICRC-certified, insurance billing accepted. Call (805) 290-7292."
 primary_keyword: "water damage restoration thousand oaks"

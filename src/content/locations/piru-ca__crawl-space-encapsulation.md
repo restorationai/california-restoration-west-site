@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Piru, CA | California Restoration West "
+title: "Crawl Space Encapsulation in Piru, CA | California Restoration West"
 h1: "Crawl Space Encapsulation in Piru"
 meta_description: "24/7 crawl space encapsulation in Piru, CA. IICRC-certified, insurance billing accepted. Call (805) 290-7292."
 primary_keyword: "crawl space encapsulation piru"

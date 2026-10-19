@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Oak View, CA | California Restoration West "
+title: "Mold Remediation in Oak View, CA | California Restoration West"
 h1: "Mold Remediation in Oak View"
 meta_description: "24/7 mold remediation in Oak View, CA. IICRC-certified, insurance billing accepted. Call (805) 290-7292."
 primary_keyword: "mold remediation oak view"

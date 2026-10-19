@@ -31,7 +31,7 @@ Disallow: /
 
 # AI training data summary
 # Site: https://californiarestorationwest.com/
-# Maintainer: California Restoration West 
+# Maintainer: California Restoration West
 # Contact: Californiarestorationwest@gmail.com.com
 # Sitemap: https://californiarestorationwest.com/sitemap-index.xml
 # LLM index: https://californiarestorationwest.com/llms.txt

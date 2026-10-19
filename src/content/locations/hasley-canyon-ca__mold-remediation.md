@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Hasley Canyon, CA | California Restoration West "
+title: "Mold Remediation in Hasley Canyon, CA | California Restoration West"
 h1: "Mold Remediation in Hasley Canyon"
 meta_description: "24/7 mold remediation in Hasley Canyon, CA. IICRC-certified, insurance billing accepted. Call (805) 290-7292."
 primary_keyword: "mold remediation hasley canyon"

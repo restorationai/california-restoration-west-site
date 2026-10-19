@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Water Damage Restoration in Channel Islands Beach | California Restoration West "
+title: "Emergency Water Damage Restoration in Channel Islands Beach | California Restoration West"
 h1: "24/7 Emergency Water Damage Restoration in Channel Islands Beach"
 meta_description: "24/7 emergency water damage restoration in Channel Islands Beach, CA. IICRC-certified, insurance billing accepted. Call (805) 290-7292."
 primary_keyword: "water damage restoration channel islands beach"
