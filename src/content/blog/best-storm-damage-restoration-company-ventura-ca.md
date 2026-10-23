@@ -28,7 +28,7 @@ If a recent atmospheric river pushed water under your doors, tore flashing off y
 
 This Ventura-based company is a good fit for storm damage specifically because the same crew handles the whole chain of a storm loss: emergency water removal, structural drying, and the mold prevention window that follows within 24 to 48 hours ([EPA mold guidance](https://www.epa.gov/mold)). That matters after a Ventura storm because wind-driven rain and roof leaks rarely show up as a single clean problem; they show up as wet insulation, a soaked attic deck, and water tracking down into a wall cavity you can't see.
 
-The firm is an [IICRC Certified Firm](https://www.iicrc.org/) holding WRT (Water Restoration Technician), AMRT (Mold), and ASD (Applied Structural Drying) certifications, operates 24/7, and attests to being licensed and insured. It answers emergency calls around the clock, which is the single most time-sensitive factor in a storm loss: drywall and insulation that stay wet past 48 hours move from a drying job into a tear-out job.
+The firm is an [IICRC Certified Firm](https://www.iicrc.org/) holding WRT (Water Restoration Technician), AMRT (Mold), and ASD (Applied Structural Drying) certifications, operates 24/7, and is insured. It answers emergency calls around the clock, which is the single most time-sensitive factor in a storm loss: drywall and insulation that stay wet past 48 hours move from a drying job into a tear-out job.
 
 Because storm claims often involve both wind and water damage on the same policy, documentation is where claims get approved or denied. Before/after moisture readings, photos, and a written scope are standard practice here and are the paperwork most adjusters ask for first.
 

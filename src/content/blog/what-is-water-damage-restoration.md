@@ -89,7 +89,7 @@ Schedule a moisture assessment or call (805) 290-7292 to reach their team.
 
 **About California Restoration West**
 
-California Restoration West is an IICRC Certified Firm serving Ventura, CA and surrounding Ventura County communities since 2025. The company holds IICRC certifications in Water Damage Restoration (WRT), Applied Structural Drying (ASD), and Applied Microbial Remediation (AMRT), and is licensed, insured, and available 24/7. Their services include water damage restoration, water cleanup, mold remediation, storm damage restoration, contents restoration, and crawl space encapsulation.
+California Restoration West is an IICRC Certified Firm serving Ventura, CA and surrounding Ventura County communities since 2025. The company holds IICRC certifications in Water Damage Restoration (WRT), Applied Structural Drying (ASD), and Applied Microbial Remediation (AMRT), and is insured and available 24/7. Their services include water damage restoration, water cleanup, mold remediation, storm damage restoration, contents restoration, and crawl space encapsulation.
 
 ## Video Transcript
 

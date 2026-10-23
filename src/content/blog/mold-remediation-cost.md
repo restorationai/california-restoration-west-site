@@ -82,4 +82,4 @@ Every mold job is different, and the only way to know your real number is a writ
 
 **About California Restoration West**
 
-California Restoration West is an IICRC Certified Firm serving Ventura, CA and surrounding communities, holding IICRC credentials in water restoration (WRT), mold remediation (AMRT), and structural drying (ASD). The company is licensed and insured, operates on a 24/7 basis, and handles mold remediation, water damage restoration, and crawl space encapsulation across Ventura County.
+California Restoration West is an IICRC Certified Firm serving Ventura, CA and surrounding communities, holding IICRC credentials in water restoration (WRT), mold remediation (AMRT), and structural drying (ASD). The company is insured, operates on a 24/7 basis, and handles mold remediation, water damage restoration, and crawl space encapsulation across Ventura County.

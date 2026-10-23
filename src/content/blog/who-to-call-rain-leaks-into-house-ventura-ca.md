@@ -60,4 +60,4 @@ If the leak just started, the priority is simple: get water extraction and dryin
 
 **About California Restoration West**
 
-California Restoration West is an IICRC Certified Firm serving Ventura, CA and surrounding Ventura County communities, with technicians holding IICRC Water Restoration (WRT), Applied Microbial Remediation (AMRT), and Applied Structural Drying (ASD) credentials. Founded in 2025 and licensed and insured, the company operates a 24/7 line for storm and water intrusion calls and handles water damage restoration, emergency water removal, storm damage restoration, and mold remediation across the county.
+California Restoration West is an IICRC Certified Firm serving Ventura, CA and surrounding Ventura County communities, with technicians holding IICRC Water Restoration (WRT), Applied Microbial Remediation (AMRT), and Applied Structural Drying (ASD) credentials. Founded in 2025 and insured, the company operates a 24/7 line for storm and water intrusion calls and handles water damage restoration, emergency water removal, storm damage restoration, and mold remediation across the county.

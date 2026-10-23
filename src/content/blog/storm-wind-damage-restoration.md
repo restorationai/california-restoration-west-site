@@ -58,6 +58,6 @@ Storm damage rarely waits for a convenient time, and in Ventura County the gap b
 
 **About California Restoration West**
 
-California Restoration West is an IICRC Certified Firm serving Ventura, Camarillo, Oxnard, Thousand Oaks, and the surrounding Ventura County area, with technicians holding IICRC WRT, AMRT, and ASD certifications. The company operates 24/7 and handles water damage restoration, storm damage restoration, mold remediation, and contents restoration across the region. Licensed and insured, founded in 2025.
+California Restoration West is an IICRC Certified Firm serving Ventura, Camarillo, Oxnard, Thousand Oaks, and the surrounding Ventura County area, with technicians holding IICRC WRT, AMRT, and ASD certifications. The company operates 24/7 and handles water damage restoration, storm damage restoration, mold remediation, and contents restoration across the region. Insured, founded in 2025.
 
 [Call California Restoration West at (805) 290-7292](tel:+18052907292) to schedule a storm damage assessment.

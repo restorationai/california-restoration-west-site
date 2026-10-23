@@ -70,7 +70,7 @@ We are experienced in working alongside homeowners' and commercial property insu
 
 ### Scope of Work and Liability
 
-California Restoration West operates as a licensed contractor under California state regulations. Our liability is limited to the scope of work described in the signed work-authorization form. We are not responsible for pre-existing conditions, concealed damage that was not reasonably discoverable at the time of estimate, or damage caused by delays in authorizing work. Nothing in these terms limits any rights you may have under California law.
+California Restoration West operates under applicable California state regulations. Our liability is limited to the scope of work described in the signed work-authorization form. We are not responsible for pre-existing conditions, concealed damage that was not reasonably discoverable at the time of estimate, or damage caused by delays in authorizing work. Nothing in these terms limits any rights you may have under California law.
 
 ### Dispute Resolution
 

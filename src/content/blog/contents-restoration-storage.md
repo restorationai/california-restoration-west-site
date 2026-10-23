@@ -113,4 +113,4 @@ If you are also dealing with structural water damage alongside your contents los
 
 **About California Restoration West**
 
-California Restoration West is an IICRC Certified Firm serving Ojai, Ventura, and surrounding Ventura County communities since 2025 (licensed and insured). Their crews hold IICRC certifications in Water Damage Restoration (WRT), Applied Structural Drying (ASD), and Applied Microbial Remediation (AMRT), and are OSHA trained. Services include contents restoration and storage, water damage restoration, mold remediation, odor removal, storm damage restoration, and crawl space encapsulation. Available 24/7 at (805) 290-7292.
+California Restoration West is an IICRC Certified Firm serving Ojai, Ventura, and surrounding Ventura County communities since 2025 (insured). Their crews hold IICRC certifications in Water Damage Restoration (WRT), Applied Structural Drying (ASD), and Applied Microbial Remediation (AMRT), and are OSHA trained. Services include contents restoration and storage, water damage restoration, mold remediation, odor removal, storm damage restoration, and crawl space encapsulation. Available 24/7 at (805) 290-7292.

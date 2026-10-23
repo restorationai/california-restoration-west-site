@@ -2,9 +2,9 @@
 archetype: "about"
 title: "About California Restoration West  | Ventura Restoration Company"
 h1: "About California Restoration West"
-meta_description: "California Restoration West  has served Ventura since 2025. Meet our IICRC-certified restoration team. Licensed, insured, locally owned."
+meta_description: "California Restoration West  has served Ventura since 2025. Meet our IICRC-certified restoration team. Insured, locally owned."
 primary_keyword: "california restoration west  ventura"
-secondary_keywords: ["local restoration company", "iicrc certified restoration", "licensed restoration contractor"]
+secondary_keywords: ["local restoration company", "iicrc certified restoration", "insured restoration company"]
 search_intent: "navigational_trust"
 priority: 2.5
 plan_hash: "c5ac47bc7f7502ab"

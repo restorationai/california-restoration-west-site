@@ -100,7 +100,7 @@ Accepted payment methods and due dates are specified in your signed work-authori
 
 ### Liability
 
-California Restoration West operates as a licensed contractor under California state regulations. Our liability is limited to the scope of work described in the signed authorization. We are not responsible for pre-existing conditions, code violations unrelated to the loss, or damage caused by delayed reporting of a loss.
+California Restoration West operates under applicable California state regulations. Our liability is limited to the scope of work described in the signed authorization. We are not responsible for pre-existing conditions, code violations unrelated to the loss, or damage caused by delayed reporting of a loss.
 
 ### Insurance Coordination
 

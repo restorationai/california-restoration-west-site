@@ -86,7 +86,7 @@ California Restoration West holds IICRC AMRT (Applied Microbial Remediation Tech
 
 **About California Restoration West**
 
-California Restoration West is an IICRC Certified Firm serving Ventura, CA and surrounding Ventura County communities since 2025. The team holds IICRC certifications in Water Damage Restoration (WRT), Applied Microbial Remediation (AMRT), and Applied Structural Drying (ASD), and is OSHA trained. Services include [water damage restoration](/services/water-damage-restoration/), [mold remediation](/services/mold-remediation/), storm damage restoration, contents restoration, crawl space encapsulation, and emergency water cleanup. California Restoration West is licensed, insured, locally owned, and available 24/7 for emergency response throughout Ventura County.
+California Restoration West is an IICRC Certified Firm serving Ventura, CA and surrounding Ventura County communities since 2025. The team holds IICRC certifications in Water Damage Restoration (WRT), Applied Microbial Remediation (AMRT), and Applied Structural Drying (ASD), and is OSHA trained. Services include [water damage restoration](/services/water-damage-restoration/), [mold remediation](/services/mold-remediation/), storm damage restoration, contents restoration, crawl space encapsulation, and emergency water cleanup. California Restoration West is insured, locally owned, and available 24/7 for emergency response throughout Ventura County.
 
 ## Video Transcript
 

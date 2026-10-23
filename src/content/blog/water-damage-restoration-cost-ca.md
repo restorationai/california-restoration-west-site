@@ -101,7 +101,7 @@ One practical note: do not wait for the adjuster to arrive before starting mitig
 
 If you have active water damage, the first priority is stopping the source. Shut off the supply valve at the affected fixture or the main shutoff at the meter. Then call for extraction. Every hour of additional saturation expands the affected area and the cost.
 
-For Ventura homeowners dealing with a loss right now, California Restoration West is available 24/7 at **(805) 290-7292**. The crew is IICRC-certified in Water Damage Restoration (WRT) and Structural Drying (ASD), and carries full licensing and insurance. A written scope is provided before any work begins, so you know exactly what you're authorizing.
+For Ventura homeowners dealing with a loss right now, California Restoration West is available 24/7 at **(805) 290-7292**. The crew is IICRC-certified in Water Damage Restoration (WRT) and Structural Drying (ASD), and is fully insured. A written scope is provided before any work begins, so you know exactly what you're authorizing.
 
 If you're in the research phase, the [Water Damage Restoration Cost in Ventura County](/blog/water-damage-restoration-cost/) post covers local pricing in more detail, and [What To Do in the First 24 Hours After Water Damage](/blog/what-to-do-first-24-hours-water-damage/) walks through the immediate response steps.
 
@@ -109,4 +109,4 @@ If you're in the research phase, the [Water Damage Restoration Cost in Ventura C
 
 **About California Restoration West**
 
-California Restoration West is an IICRC Certified Firm serving Ventura, Oxnard, Thousand Oaks, Camarillo, Simi Valley, Santa Paula, and surrounding Ventura County communities. The team holds IICRC certifications in Water Damage Restoration (WRT), Applied Structural Drying (ASD), and Applied Microbial Remediation (AMRT), and is OSHA trained. Services include water damage restoration, mold remediation, storm damage restoration, contents restoration, crawl space encapsulation, and water cleanup. Licensed and insured. Available 24/7 at (805) 290-7292.
+California Restoration West is an IICRC Certified Firm serving Ventura, Oxnard, Thousand Oaks, Camarillo, Simi Valley, Santa Paula, and surrounding Ventura County communities. The team holds IICRC certifications in Water Damage Restoration (WRT), Applied Structural Drying (ASD), and Applied Microbial Remediation (AMRT), and is OSHA trained. Services include water damage restoration, mold remediation, storm damage restoration, contents restoration, crawl space encapsulation, and water cleanup. Insured. Available 24/7 at (805) 290-7292.

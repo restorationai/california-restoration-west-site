@@ -84,4 +84,4 @@ Storm damage math gets complicated fast once mud, mold risk, or structural dryin
 
 **About California Restoration West**
 
-California Restoration West is an IICRC Certified Firm serving Ventura, CA and surrounding Ventura County since 2025, with technicians holding WRT, AMRT, and ASD certifications for water, mold, and structural drying work. The company is licensed and insured and operates 24/7 for storm and water damage calls. This post was prepared with the California Restoration West team, drawing on IICRC S500 drying standards and California insurance guidance.
+California Restoration West is an IICRC Certified Firm serving Ventura, CA and surrounding Ventura County since 2025, with technicians holding WRT, AMRT, and ASD certifications for water, mold, and structural drying work. The company is insured and operates 24/7 for storm and water damage calls. This post was prepared with the California Restoration West team, drawing on IICRC S500 drying standards and California insurance guidance.
