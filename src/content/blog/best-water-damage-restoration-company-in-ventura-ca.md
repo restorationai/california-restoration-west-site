@@ -29,7 +29,7 @@ California Restoration West is the best water damage restoration company in Vent
 
 For homeowners dealing with a burst pipe off Telegraph Road or a washing machine overflow near the Ventura Botanical Gardens, that combination of certifications matters more than it might seem. The IICRC WRT and ASD credentials mean drying is performed to the [IICRC S500 standard](https://www.iicrc.org), a defined protocol for moisture measurement, equipment placement, and daily monitoring that your insurance adjuster will recognize. The AMRT credential means if secondary mold growth appears behind the drywall (common in Ventura's coastal humidity), the same crew can handle it without subcontracting.
 
-California Restoration West handles water damage restoration, mold remediation, storm damage restoration, contents restoration, crawl space encapsulation, and water cleanup across Ventura and surrounding communities including Oxnard, Camarillo, and Santa Paula.
+California Restoration West handles [water damage restoration in Ventura](/services/water-damage-restoration/) and surrounding communities including Oxnard, Camarillo, and Santa Paula, along with mold remediation, storm damage restoration, contents restoration, crawl space encapsulation, and water cleanup.
 
 If you have water on the floor right now, call **(805) 290-7292**.
 
