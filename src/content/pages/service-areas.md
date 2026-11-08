@@ -1,6 +1,6 @@
 ---
 archetype: "service-areas-hub"
-title: "Service Areas | California Restoration West  Restoration"
+title: "Service Areas | California Restoration West"
 h1: "Areas We Serve"
 meta_description: "California Restoration West  provides 24/7 restoration services across Ventura and the surrounding region. Find your city."
 primary_keyword: "california restoration west  service areas"
