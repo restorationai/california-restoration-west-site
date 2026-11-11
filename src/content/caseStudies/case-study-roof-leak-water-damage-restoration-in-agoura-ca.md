@@ -1,18 +1,18 @@
 ---
 archetype: "blog-post"
-title: "Case Study: Roof Leak Water Damage Restoration for Parnia in Agoura, CA"
-h1: "Case Study: Roof Leak Water Damage Restoration for Parnia in Agoura, CA"
+title: "Case Study: Roof Leak Water Damage Restoration in Agoura, CA"
+h1: "Case Study: Roof Leak Water Damage Restoration in Agoura, CA"
 meta_description: "A roof leak that went unnoticed for over a year required drywall removal and structural remediation in Agoura, CA. See the project notes and general process."
 primary_keyword: "restoration case study agoura"
 secondary_keywords: []
 search_intent: "commercial"
 priority: 7
-hero: "https://images.californiarestorationwest.com/blog/2026/11/case-study-roof-leak-water-damage-restoration-for-parnia-in-agoura-ca/hero.webp"
-og: "https://images.californiarestorationwest.com/blog/2026/11/case-study-roof-leak-water-damage-restoration-for-parnia-in-agoura-ca/hero.webp"
+hero: "https://images.californiarestorationwest.com/blog/2026/11/case-study-roof-leak-water-damage-restoration-in-agoura-ca/hero.webp?v=2"
+og: "https://images.californiarestorationwest.com/blog/2026/11/case-study-roof-leak-water-damage-restoration-in-agoura-ca/hero.webp?v=2"
 generated_at: "2026-11-11T16:16:17Z"
 manual_override: false
 internal_links: ["/services/water-damage-restoration/", "/services/mold-remediation/", "/contact/", "/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "Case Study: Roof Leak Water Damage Restoration for Parnia in Agoura, CA"}]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "Case Study: Roof Leak Water Damage Restoration in Agoura, CA"}]
 faq: [{"question": "How do I know if a roof leak has been going on for a long time?", "answer": "Signs can include discoloration that spreads beyond the original spot, a musty smell, soft or sagging drywall, or staining that reappears after a repair. A physical inspection of the framing is the only way to confirm how far moisture has traveled."}, {"question": "Why would a contractor remove drywall instead of just patching the visible damage?", "answer": "Surface patching doesn't address moisture or damage that may be sitting inside the wall or ceiling cavity. Removing affected sections allows the framing underneath to be inspected and properly dried before it's closed back up."}, {"question": "Does a leak like this always lead to mold?", "answer": "Not always, but prolonged moisture in an enclosed cavity increases the risk. That's why remediation of the studs and joists, not just the drywall, is typically part of addressing a long-duration leak."}, {"question": "How long does drying framing cavities usually take?", "answer": "It depends on the extent of saturation and the materials involved. The general approach is to monitor moisture content with a meter and continue drying until readings return to a normal range before rebuilding."}]
 published_at: "2026-11-04"
 updated_at: "2026-11-11"
@@ -20,7 +20,7 @@ services: []
 rendered: true
 city: "Agoura"
 ---
-Roof leaks are deceptive. Unlike a burst pipe or a flood, they often announce themselves slowly, a stain here, a soft spot there, while the real damage builds inside walls and ceilings where no one is looking. That's the kind of situation described in this job for Parnia in Agoura, CA.
+Roof leaks are deceptive. Unlike a burst pipe or a flood, they often announce themselves slowly, a stain here, a soft spot there, while the real damage builds inside walls and ceilings where no one is looking. That's the kind of situation described in this job in Agoura, CA.
 
 > "What happened: Roof leak from a repair done over a year ago and was leaking for awhile... How we fixed it: Removed affected drywall on the exterior walls and ceilings. Remediated studs bays and joist and joist bays"
 >
@@ -72,5 +72,5 @@ A: It depends on the extent of saturation and the materials involved. The genera
 
 ## Photos from this job
 
-![Case Study: Roof Leak Water Damage Restoration for Parnia in Agoura, CA job photo](https://images.californiarestorationwest.com/blog/2026/11/case-study-roof-leak-water-damage-restoration-for-parnia-in-agoura-ca/photo-1.webp)
-![Case Study: Roof Leak Water Damage Restoration for Parnia in Agoura, CA job photo](https://images.californiarestorationwest.com/blog/2026/11/case-study-roof-leak-water-damage-restoration-for-parnia-in-agoura-ca/photo-2.webp)
+![Case Study: Roof Leak Water Damage Restoration in Agoura, CA job photo](https://images.californiarestorationwest.com/blog/2026/11/case-study-roof-leak-water-damage-restoration-in-agoura-ca/photo-1.webp?v=2)
+![Case Study: Roof Leak Water Damage Restoration in Agoura, CA job photo](https://images.californiarestorationwest.com/blog/2026/11/case-study-roof-leak-water-damage-restoration-in-agoura-ca/photo-2.webp?v=2)
