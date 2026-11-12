@@ -65,13 +65,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
-  gbpReviewCount: "9",
+  gbpReviewCount: "11",
   gbpReviews: [
+    { author: "Mike", rating: 5, text: "Made me feel comfortable and in good hands from the moment we spoke. Gave details on what was needed and what to expect.", when: "November 2026" },
+    { author: "Adokht", rating: 5, text: "Jimmy and this company are a true GEM!! I truly had the best experience with them. He answered all my questions, super professional, and his work was absolutely perfect. He is very kind and knowledgeable in what he is doing. God sent!", when: "November 2026" },
     { author: "Karen", rating: 5, text: "Jim was professional, courteous and respectful of my spaces.", when: "October 2026" },
     { author: "Atila", rating: 5, text: "Jimmy provided excellent water restoration service. He was professional, responsive, and did a great job from start to finish. I really appreciate his attention to detail and customer service. Highly recommended!", when: "September 2026" },
     { author: "Jeffrey", rating: 5, text: "Jimmy is Very Professional and knowledgeable. One of the best in the industry.", when: "November 2025" },
     { author: "Davis", rating: 5, text: "Jimmy and his team were great to work with — professional, responsive, and did excellent work here in the Thousand Oaks/Conejo Valley area. Highly recommend them for anyone looking for reliable, quality service.", when: "November 2025" },
-    { author: "Adan", rating: 5, text: "Excellent work! Lots of experience and professionalism!", when: "November 2025" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services in Ventura, CA.",
   ctaLabel: "24/7 Emergency Line",
