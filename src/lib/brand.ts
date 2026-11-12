@@ -27,7 +27,7 @@ export const brand = {
   // filled by the call-tracking provisioning step).
   trackingPhone: "(805) 465-6397",
   trackingPhoneRaw: "+18054656397",
-  email: "Californiarestorationwest@gmail.com.com",
+  email: "californiarestorationwest@gmail.com",
   hours: "24/7",
   foundedYear: "2025",
   primaryCity: "Ventura",

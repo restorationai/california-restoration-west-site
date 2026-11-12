@@ -31,7 +31,7 @@ These `{{TOKEN}}` strings are substituted by `build_site.py scaffold` from `plan
 | `californiarestorationwest.com` | client record `domain` | `narestco.com` |
 | `https://californiarestorationwest.com` | derived | `https://narestco.com` |
 | `(805) 290-7292` / `+18052907292` | brand.phone | `(206) 883-0333` / `+12068830333` |
-| `Californiarestorationwest@gmail.com.com` | brand.email | `info@narestco.com` |
+| `californiarestorationwest@gmail.com` | brand.email | `info@narestco.com` |
 | `24/7` | brand.hours | `24/7` |
 | `2025` | brand.founded_year | `2004` |
 | `Ventura` / `CA` | derived from primary area | `Federal Way` / `WA` |
