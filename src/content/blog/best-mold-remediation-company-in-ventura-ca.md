@@ -50,7 +50,7 @@ Ventura's 24 Hr Flood Cleanup, at 248 E Main St, Ventura, CA 93001, is a water d
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| California Restoration West | 5.0 | 11 | Yes | Yes |
+| California Restoration West | 5.0 | 12 | Yes | Yes |
 | SERVPRO of Ventura | 4.8 | 65 | Not listed | Not listed |
 | SERVPRO of Northwest Ventura County | 4.9 | 76 | Not listed | Not listed |
 | Water Damage Services | 4.7 | 59 | Not listed | Not listed |

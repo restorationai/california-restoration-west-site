@@ -59,11 +59,11 @@ Steamworks is known locally primarily for carpet and upholstery cleaning rather 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
 | Top Pick (profiled above) | 5.0 | 8 | Yes | Yes (WRT, AMRT, ASD, Certified Firm) |
-| SERVPRO of Ventura |, |, |, |, |
-| Emerald Isle Restoration |, |, |, |, |
-| SOS Restoration of Ventura County |, |, |, |, |
-| JW Home Care |, |, |, |, |
-| Steamworks |, |, |, |, |
+| SERVPRO of Ventura | Not listed | Not listed | Not listed | Not listed |
+| Emerald Isle Restoration | Not listed | Not listed | Not listed | Not listed |
+| SOS Restoration of Ventura County | Not listed | Not listed | Not listed | Not listed |
+| JW Home Care | Not listed | Not listed | Not listed | Not listed |
+| Steamworks | Not listed | Not listed | Not listed | Not listed |
 
 ## What Should You Ask a Storm Damage Restoration Company Before Hiring?
 

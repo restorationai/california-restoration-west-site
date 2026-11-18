@@ -37,11 +37,11 @@ If you have water on the floor right now, call **(805) 290-7292**.
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| California Restoration West | 5.0 | Growing | Yes | Yes (WRT, ASD, AMRT, Certified Firm) |
-| SERVPRO of Northwest Ventura County | 4.9 | 74 | - | - |
-| SERVPRO of Ventura | 4.9 | 63 | - | - |
-| Water Damage Services | 4.7 | 59 | - | - |
-| Ventura's 24 Hr Flood Cleanup | 5.0 | 3 | - | - |
+| California Restoration West | 5.0 | 12 | Yes | Yes (WRT, ASD, AMRT, Certified Firm) |
+| SERVPRO of Northwest Ventura County | 4.9 | 74 | Not listed | Not listed |
+| SERVPRO of Ventura | 4.9 | 63 | Not listed | Not listed |
+| Water Damage Services | 4.7 | 59 | Not listed | Not listed |
+| Ventura's 24 Hr Flood Cleanup | 5.0 | 3 | Not listed | Not listed |
 
 ---
 
