@@ -79,6 +79,8 @@ export const brand = {
   trustBadges: ["IICRC Certified Firm", "Insured", "24/7 Emergency Service", "Locally Owned & Operated"] as string[],
   jobPhotos: [] as string[],
   sameAsUrls: ["https://www.facebook.com/people/CAlifornia-REstoration-West/61583226071533/", "https://www.facebook.com/p/CAlifornia-REstoration-West-61583226071533/", "https://maps.google.com/maps?cid=16144063698256220950", "https://www.yelp.com/biz/california-restoration-west-ventura", "https://www.houzz.com/pro/webuser-84932668/california-restoration-west", "https://homeguide.com/ca/ventura/water-damage-restoration/california-restoration-west-bWIQJ-q7t"] as string[],
+  credentials: [{"name": "IICRC WRT (Water)", "kind": "certification", "authority": "IICRC", "holder": "technicians", "course": "WRT"}, {"name": "IICRC AMRT (Mold)", "kind": "certification", "authority": "IICRC", "holder": "technicians", "course": "AMRT"}, {"name": "IICRC ASD (Structural Drying)", "kind": "certification", "authority": "IICRC", "holder": "technicians", "course": "ASD"}, {"name": "IICRC Certified Firm", "kind": "certification", "authority": "IICRC", "holder": "company"}, {"name": "OSHA Trained", "kind": "certification", "holder": "company"}] as { name: string; kind: string; number?: string; authority?: string; url?: string; since?: string; state?: string; holder?: string; course?: string }[],
+  credentialsLine: [{"text": "IICRC-certified technicians (WRT, AMRT, ASD)"}, {"text": "IICRC Certified Firm"}, {"text": "OSHA Trained"}] as { text: string; url?: string }[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
