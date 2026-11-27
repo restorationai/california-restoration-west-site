@@ -1,4 +1,7 @@
 {
+  "basement-flooding-cleanup": [
+    "Basement Flood Cleanup"
+  ],
   "burst-pipe-repair": [
     "Burst Pipe Cleanup"
   ],
@@ -41,7 +44,11 @@
   ],
   "odor-removal": [
     "Odor Control & Deodorization",
-    "Remove Pet Stains and Odors"
+    "Remove Pet Stains and Odors",
+    "Smoke Odor Removal"
+  ],
+  "smoke-damage-restoration": [
+    "Soot Removal"
   ],
   "storm-damage-restoration": [
     "Emergency Board Up",
